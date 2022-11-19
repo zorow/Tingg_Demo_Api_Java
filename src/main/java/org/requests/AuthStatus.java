@@ -1,4 +1,4 @@
-package org.example;
+package org.requests;
 
 public class AuthStatus {
     private Integer authStatusCode;
