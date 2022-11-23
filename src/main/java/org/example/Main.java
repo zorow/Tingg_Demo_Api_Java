@@ -39,9 +39,9 @@ public class Main {
         tinggTest.setSERVICE_CODE("KE-GOTV");
         tinggTest.setCOUNTRY_CODE("KE");
         tinggTest.setCURRENCY_CODE("KES");
-        tinggTest.setMSISDN("254790399490");
+        tinggTest.setMSISDN("254722000000");
         tinggTest.setACCOUNT_NUMBER("7023571052");
-        tinggTest.setCUSTOMER_NAME("JOHN DOE");
+        tinggTest.setCUSTOMER_NAME("");
         tinggTest.setAMOUNT(10);
         tinggTest.setDATE_PAYMENT_RECEIVED(dateTime);
         tinggTest.setPAYMENT_MODE("MOBILE");
